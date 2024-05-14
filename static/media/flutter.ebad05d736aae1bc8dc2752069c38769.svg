@@ -1,0 +1,56 @@
+<svg id="flutter" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58.756" height="72.759" viewBox="0 0 58.756 72.759">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-2 {
+        fill: #39cefd;
+      }
+
+      .cls-3 {
+        fill: #03569b;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: #16b9fd;
+      }
+
+      .cls-6 {
+        fill: url(#radial-gradient);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_57" data-name="Path 57" d="M66.188,34.85,46.6,54.442,66.188,74.034H43.807L24.215,54.442,43.807,34.85ZM43.807,1.276,7.431,37.652,18.625,48.845,66.188,1.276Z" transform="translate(-7.431 -1.276)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.197" y1="1.193" x2="0.699" y2="0.448" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1a237e" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#1a237e" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.028" cy="0.068" r="1.223" gradientTransform="matrix(1.238, 0, 0, -1, -2.189, -5.539)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.102"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_54" data-name="Group 54" class="cls-1" transform="translate(0 0)">
+    <path id="Path_56" data-name="Path 56" class="cls-2" d="M22.2,50.4,33.388,61.6,64.167,30.81H41.787Z" transform="translate(-5.411 2.764)"/>
+  </g>
+  <g id="Group_55" data-name="Group 55" class="cls-1" transform="translate(0 0)">
+    <path id="Path_58" data-name="Path 58" class="cls-2" d="M43.807,1.276h22.38L18.625,48.845,7.431,37.652Z" transform="translate(-7.431 -1.276)"/>
+  </g>
+  <g id="Group_56" data-name="Group 56" class="cls-1" transform="translate(0 0)">
+    <path id="Path_60" data-name="Path 60" class="cls-3" d="M32.042,59.239l8.4,8.392h22.38L43.236,48.045Z" transform="translate(-4.065 5.121)"/>
+  </g>
+  <g id="Group_57" data-name="Group 57" class="cls-1" transform="translate(0 0)">
+    <path id="Path_62" data-name="Path 62" class="cls-4" d="M48.644,53.488l-5.408-5.443L32.042,59.239Z" transform="translate(-4.065 5.121)"/>
+  </g>
+  <g id="Group_58" data-name="Group 58" class="cls-1" transform="translate(0 0)">
+    <path id="Path_64" data-name="Path 64" class="cls-5" d="M22.2,49.389,33.395,38.195,44.589,49.389,33.395,60.583Z" transform="translate(-5.411 3.774)"/>
+  </g>
+  <path id="Path_66" data-name="Path 66" class="cls-6" d="M66.188,34.85,46.6,54.442,66.188,74.034H43.807L24.215,54.442,43.807,34.85ZM43.807,1.276,7.431,37.652,18.625,48.845,66.188,1.276Z" transform="translate(-7.431 -1.276)"/>
+</svg>

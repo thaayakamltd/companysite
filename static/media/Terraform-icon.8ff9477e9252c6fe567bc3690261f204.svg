@@ -1,0 +1,20 @@
+<svg id="Terraform-icon" xmlns="http://www.w3.org/2000/svg" width="78.28" height="88.93" viewBox="0 0 78.28 88.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5c4ee5;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #4040b2;
+      }
+    </style>
+  </defs>
+  <path id="Path_39" data-name="Path 39" class="cls-1" d="M39.141,33.4V5.33L14.832-8.708V19.357Zm0-31.133L14.832-11.776V-39.853L39.141-25.814Z" transform="translate(12.142 55.534)"/>
+  <path id="Path_40" data-name="Path 40" class="cls-2" d="M58.574-11.784V-39.861L34.253-25.823V2.255Z" transform="translate(19.707 55.531)"/>
+  <path id="Path_41" data-name="Path 41" class="cls-1" d="M19.729-9.023V-37.1L-4.58-51.138v28.077Z" transform="translate(4.58 51.138)"/>
+</svg>

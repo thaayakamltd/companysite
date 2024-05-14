@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75.433" height="80" viewBox="0 0 75.433 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e23237;
+      }
+
+      .cls-2 {
+        fill: #b52e31;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="angular" transform="translate(-0.1 -0.697)">
+    <path id="Path_787" data-name="Path 787" class="cls-1" d="M.1,13.957,37.315.7,75.532,13.721,69.344,62.959,37.315,80.7,5.787,63.194Z"/>
+    <path id="Path_788" data-name="Path 788" class="cls-2" d="M164.125,13.721,125.908.7v80l32.029-17.709,6.188-49.267Z" transform="translate(-88.593)"/>
+    <path id="Path_789" data-name="Path 789" class="cls-3" d="M70.9,32.274h0L47.714,83.869l8.663-.147,4.656-11.639h20.8l5.1,11.786,8.28.147L70.9,32.274Zm.059,16.53L78.8,65.187H64.067l6.9-16.383Z" transform="translate(-33.529 -22.236)"/>
+  </g>
+</svg>

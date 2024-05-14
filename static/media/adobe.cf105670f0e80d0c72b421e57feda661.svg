@@ -1,0 +1,15 @@
+<svg id="adobe" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: red;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Path_721" data-name="Path 721" class="cls-1" d="M0,0V80H80V0Z"/>
+  <path id="Path_722" data-name="Path 722" class="cls-2" d="M274.859,272l15.234,36.25V272ZM249,272v36.25L264.234,272Zm13.906,28.828,6.641-15.781,9.766,23.2h-6.328l-3.125-7.422Z" transform="translate(-229.547 -250.75)"/>
+</svg>
